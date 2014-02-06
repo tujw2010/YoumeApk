@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/model/Component/ClearLineEdit.qml</file>
+        <file>UI/model/Component/LineEdit.qml</file>
+        <file>UI/model/Component/MenuBar.qml</file>
+        <file>UI/model/AboutPanel.qml</file>
+        <file>UI/model/AppTitle.qml</file>
+        <file>UI/model/LoginPanel.qml</file>
+        <file>UI/model/LoverInfoPanel.qml</file>
+        <file>UI/model/MenuBar.qml</file>
+        <file>UI/model/UserInfoPanel.qml</file>
+        <file>UI/model/ZonePanel.qml</file>
+        <file>UI/YouMe.qml</file>
+        <file>UI/model/MainPanel.qml</file>
+    </qresource>
+</RCC>
