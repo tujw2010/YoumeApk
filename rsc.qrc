@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
+        <file>UI/YouMe.qml</file>
         <file>UI/model/Component/ClearLineEdit.qml</file>
         <file>UI/model/Component/LineEdit.qml</file>
         <file>UI/model/Component/MenuBar.qml</file>
@@ -7,10 +8,12 @@
         <file>UI/model/AppTitle.qml</file>
         <file>UI/model/LoginPanel.qml</file>
         <file>UI/model/LoverInfoPanel.qml</file>
+        <file>UI/model/MainAppLoader.qml</file>
+        <file>UI/model/MainPanel.qml</file>
         <file>UI/model/MenuBar.qml</file>
+        <file>UI/model/SplashScreen.qml</file>
         <file>UI/model/UserInfoPanel.qml</file>
         <file>UI/model/ZonePanel.qml</file>
-        <file>UI/YouMe.qml</file>
-        <file>UI/model/MainPanel.qml</file>
+        <file>Img/Youme.png</file>
     </qresource>
 </RCC>

@@ -10,7 +10,6 @@ int main(int argc, char* argv[])
 
     QQuickView viewer;
     viewer.engine()->rootContext()->setContextProperty("mainWindow", &viewer);
-
     viewer.setSource(QUrl("qrc:/UI/YouMe.qml"));
     viewer.showFullScreen();
 
